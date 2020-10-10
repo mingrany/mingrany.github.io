@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Hi! I am Mingran Yang, a first-year Ph.D. student at Massachusetts Institute of Technology, advised by [Prof. Manya Ghobadi](https://people.csail.mit.edu/ghobadi/). <br>
-Prior to joining MIT, I received my bachelor's degree from Fudan University and my master's degree from Carnegie Mellon University. During my master, I was advised by [Prof. Vyas Sekar](https://users.ece.cmu.edu/~vsekar/), and I also worked closely with [Prof. Swarun Kumar](https://swarunkumar.com/) and [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). <br>
-My research interests include systems and networking. My email address: mingrany AT mit.edu
+Prior to joining MIT, I received my bachelor's degree from Fudan University and master's degree from Carnegie Mellon University. During my master, I was advised by [Prof. Vyas Sekar](https://users.ece.cmu.edu/~vsekar/), and I also worked closely with [Prof. Swarun Kumar](https://swarunkumar.com/) and [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). <br>
+My research interests include systems and networking. Email address: mingrany AT mit.edu
 
 News
 ======
@@ -29,3 +29,4 @@ In *Proceedings of the 26th ACM Annual International Conference on Mobile Comput
 **Challenging the Stateless Quo of Programmable Switches** <br>
 Nadeen Gebara, Alberto Lerner, **Mingran Yang**, Minlan Yu, Paolo Costa, and Manya Ghobadi <br>
 In *Proceedings of the 19th ACM Workshop on Hot Topics in Networks (HotNets)*, 2020 <br>
+[\[Paper PDF\]](/files/stateful-programmable-switch/stateful_switch_hotnets_2020.pdf) <br>
