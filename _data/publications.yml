@@ -2,7 +2,7 @@ main:
 
   - title: On-Fiber Photonic Computing
     authors: <strong>Mingran Yang*</strong>, Zhizhen Zhong*, and Manya Ghobadi
-    conference_short: HotNets
+    conference_short: HotNets '23
     conference: ACM Workshop on Hot Topics in Networks <strong>(HotNets)</strong>, 2023.
     pdf: ./assets/files/HotNets23_on_fiber.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -11,11 +11,11 @@ main:
   
   - title: "Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference"
     authors: Zhizhen Zhong, <strong>Mingran Yang</strong>, Jay Lang, Christian Williams, Liam Kronman, Alexander Sludds, Homa Esfahanizadeh, Dirk Englund, and Manya Ghobadi
-    conference_short: SIGCOMM
+    conference_short: SIGCOMM '23
     conference: ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, 2023.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3603269.3604821
     code: https://github.com/hipersys-team/lightning
-    # news: https://news.mit.edu/2023/system-combines-light-electrons-unlock-faster-greener-computing-0911
+    news: https://news.mit.edu/2023/system-combines-light-electrons-unlock-faster-greener-computing-0911
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wRVw7xMmi9sJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVHQhY:AFWwaeYAAAAAZVpBWhbwirmaVIXqS9oYM6dx1_Q&scisig=AFWwaeYAAAAAZVpBWlz0mD2sTC7kjCcCmZRs3Ls&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/SIGCOMM23_Lightning.png
 
