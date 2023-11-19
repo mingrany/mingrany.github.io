@@ -29,3 +29,25 @@ main:
     news: https://blogs.juniper.net/en-us/engineering-simplicity/building-a-programmable-platform-for-tomorrows-applications
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FHXU38LI1TMJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVEJ94:AFWwaeYAAAAAZVpCP97n41LF_0pwm5_fKAD2Z28&scisig=AFWwaeYAAAAAZVpCP1-TKNwB7WlizwW2h1NgBtw&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/SIGCOMM22_Trio.png
+
+  - title: "Joltik: Enabling Energy-Efficient "Future-Proof" Analytics on Low-Power Wide-Area Networks"
+    authors: <strong>Mingran Yang</strong>, Junbo Zhang, Akshay Gadre, Zaoxing Liu, Swarun Kumar, and Vyas Sekar
+    conference_short: MobiCom '20
+    conference: ACM International Conference on Mobile Computing and Networking <strong>(MobiCom)</strong>, 2020.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3372224.3419204
+    talk: https://www.youtube.com/watch?v=a0bANzQmqhc
+    # slides: ./assets/files/trio_slides_sigcomm_2022.pptx
+    # news: https://blogs.juniper.net/en-us/engineering-simplicity/building-a-programmable-platform-for-tomorrows-applications
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FHXU38LI1TMJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVEJ94:AFWwaeYAAAAAZVpCP97n41LF_0pwm5_fKAD2Z28&scisig=AFWwaeYAAAAAZVpCP1-TKNwB7WlizwW2h1NgBtw&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/MobiCom20_Joltik.png
+
+  - title: "Challenging the Stateless Quo of Programmable Switches"
+    authors: Nadeen Gebara, Alberto Lerner, <strong>Mingran Yang</strong>, Minlan Yu, Paolo Costa, and Manya Ghobadi
+    conference_short: HotNets '20
+    conference: ACM Workshop on Hot Topics in Networks <strong>(HotNets)</strong>, 2020.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3422604.3425928
+    # talk: https://www.youtube.com/watch?v=a0bANzQmqhc
+    # slides: ./assets/files/trio_slides_sigcomm_2022.pptx
+    # news: https://blogs.juniper.net/en-us/engineering-simplicity/building-a-programmable-platform-for-tomorrows-applications
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FHXU38LI1TMJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVEJ94:AFWwaeYAAAAAZVpCP97n41LF_0pwm5_fKAD2Z28&scisig=AFWwaeYAAAAAZVpCP1-TKNwB7WlizwW2h1NgBtw&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/HotNets20_stateful_dataplane.png
