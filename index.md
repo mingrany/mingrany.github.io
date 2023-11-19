@@ -4,20 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Hi! I am Mingran, a fourth-year Ph.D. student at MIT CSAIL, advised by [Prof. Manya Ghobadi](https://people.csail.mit.edu/ghobadi/). <br>
+Prior to joining MIT, I received my bachelor's degree from Fudan University and master's degree from Carnegie Mellon University. During my master, I was advised by [Prof. Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). <br>
+My research interests include systems and networking, with a particular emphasis on developing innovative network systems for machine learning applications. I am a recipient of [2022 Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/) and [MIT Presidential Fellowship](https://web.mit.edu/provost/presfellow/).
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
