@@ -4,8 +4,28 @@ main:
     authors: <strong>Mingran Yang*</strong>, Zhizhen Zhong*, and Manya Ghobadi
     conference_short: HotNets
     conference: ACM Workshop on Hot Topics in Networks <strong>(HotNets)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/HotNets23_on_fiber.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/HotNets23.png
-    # notes: Early Accept
+    image: ./assets/img/HotNets23_on_fiber.png
+  
+    - title: Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference
+    authors: Zhizhen Zhong, <strong>Mingran Yang</strong>, Jay Lang, Christian Williams, Liam Kronman, Alexander Sludds, Homa Esfahanizadeh, Dirk Englund, and Manya Ghobadi
+    conference_short: SIGCOMM
+    conference: ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3603269.3604821
+    code: https://github.com/hipersys-team/lightning
+    news: https://news.mit.edu/2023/system-combines-light-electrons-unlock-faster-greener-computing-0911
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wRVw7xMmi9sJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVHQhY:AFWwaeYAAAAAZVpBWhbwirmaVIXqS9oYM6dx1_Q&scisig=AFWwaeYAAAAAZVpBWlz0mD2sTC7kjCcCmZRs3Ls&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/SIGCOMM23_Lightning.png
+
+    - title: Using Trio – Juniper Networks’ Programmable Chipset – for Emerging In-Network Applications
+    authors: <strong>Mingran Yang</strong>, Alex Baban, Valery Kugel, Jeff Libby, Scott Mackie, Swamy Sadashivaiah Renu Kananda, Chang-Hong Wu, and Manya Ghobadi
+    conference_short: SIGCOMM
+    conference: ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, 2022.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3544216.3544262
+    talk: https://www.youtube.com/watch?v=QFGd9Ht1BGQ
+    slides: ./assets/files/trio_slides_sigcomm_2022.pptx
+    news: https://blogs.juniper.net/en-us/engineering-simplicity/building-a-programmable-platform-for-tomorrows-applications
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FHXU38LI1TMJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVEJ94:AFWwaeYAAAAAZVpCP97n41LF_0pwm5_fKAD2Z28&scisig=AFWwaeYAAAAAZVpCP1-TKNwB7WlizwW2h1NgBtw&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/SIGCOMM23_Lightning.png
