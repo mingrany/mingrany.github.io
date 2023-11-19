@@ -49,7 +49,7 @@
       {{ link.others }}
       {% endif %}
     </div>
-    <div class="news"><a href="{{ link.news_url }}">{{ link.news_title }}</a></div>
+    <div class="news"><a href="{{ link.news_url }}"><i style="color:#e74d3c">{{ link.news_title }}</a></div>
   </div>
 </div>
 </li>

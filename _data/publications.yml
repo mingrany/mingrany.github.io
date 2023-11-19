@@ -17,7 +17,7 @@ main:
     code: https://github.com/hipersys-team/lightning
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wRVw7xMmi9sJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVHQhY:AFWwaeYAAAAAZVpBWhbwirmaVIXqS9oYM6dx1_Q&scisig=AFWwaeYAAAAAZVpBWlz0mD2sTC7kjCcCmZRs3Ls&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/SIGCOMM23_Lightning.png
-    news_title: System combines light and electrons to unlock faster, greener computing
+    news_title: "News article: System combines light and electrons to unlock faster, greener computing"
     news_url: https://news.mit.edu/2023/system-combines-light-electrons-unlock-faster-greener-computing-0911
 
   - title: "Using Trio – Juniper Networks’ Programmable Chipset – for Emerging In-Network Applications"
@@ -29,7 +29,7 @@ main:
     slides: ./assets/files/trio_slides_sigcomm_2022.pptx
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FHXU38LI1TMJ:scholar.google.com/&output=citation&scisdr=ClGidIs6EJCIxcVEJ94:AFWwaeYAAAAAZVpCP97n41LF_0pwm5_fKAD2Z28&scisig=AFWwaeYAAAAAZVpCP1-TKNwB7WlizwW2h1NgBtw&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/SIGCOMM22_Trio.png
-    news_title: Building a Programmable Platform for Tomorrow’s Applications
+    news_title: "News article: Building a Programmable Platform for Tomorrow’s Applications"
     news_url: https://blogs.juniper.net/en-us/engineering-simplicity/building-a-programmable-platform-for-tomorrows-applications
 
   - title: "Joltik: Enabling Energy-Efficient ''Future-Proof'' Analytics on Low-Power Wide-Area Networks"
