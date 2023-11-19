@@ -9,7 +9,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/HotNets23_on_fiber.png
   
-    - title: Lightning A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference
+  - title: "Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference"
     authors: Zhizhen Zhong, <strong>Mingran Yang</strong>, Jay Lang, Christian Williams, Liam Kronman, Alexander Sludds, Homa Esfahanizadeh, Dirk Englund, and Manya Ghobadi
     conference_short: SIGCOMM
     conference: ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, 2023.
