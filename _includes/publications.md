@@ -27,9 +27,9 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.news %} 
+      <!-- {% if link.news %} 
       <a href="{{ link.news }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
-      {% endif %}
+      {% endif %} -->
       {% if link.talk %} 
       <a href="{{ link.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Talk</a>
       {% endif %}
@@ -49,6 +49,7 @@
       {{ link.others }}
       {% endif %}
     </div>
+    <div class="news"><a href="{{ link.news_url }}">{{ link.news_title }}</a></div>
   </div>
 </div>
 </li>
