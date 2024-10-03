@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a 5th-year PhD candidate in the EECS Department at MIT, advised by [Prof. Manya Ghobadi](https://people.csail.mit.edu/ghobadi/). My research focuses on building scalable infrastructure and systems for AI/ML and adapting LLMs for systems design and optimization. I am a recipient of the Microsoft Research PhD Fellowship and the MIT Presidential Fellowship. <br>
+I'm a 5th-year PhD candidate in the EECS Department at MIT, advised by [Prof. Manya Ghobadi](https://people.csail.mit.edu/ghobadi/). My research focuses on building scalable infrastructure and systems for AI/ML and adapting LLMs for systems design and optimization. I am a recipient of [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/) and [MIT Presidential Fellowship](https://web.mit.edu/provost/presfellow/) <br>
 
 Prior to joining MIT, I received my bachelor's degree from Fudan University and master's degree from Carnegie Mellon University. During my master, I was advised by [Prof. Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). <br>
 
