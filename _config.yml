@@ -13,7 +13,7 @@ canonical: https://mingrany.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=ChdBfgwAAAAJ&hl=en
-cv_link: assets/files/Mingran_Yang_CV.pdf
+cv_link:
 github_link: https://github.com/mingrany
 linkedin: https://www.linkedin.com/in/mingranyang/
 
